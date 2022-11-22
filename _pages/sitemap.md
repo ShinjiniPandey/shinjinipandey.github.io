@@ -9,15 +9,18 @@ author_profile: true
 
 A list of all the posts and pages found on the site. You can also take a look at the [XML version]({{ base_path }}/sitemap.xml) instead.
 
+
 <h2>Pages</h2>
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
 
+<!---
 <h2>Posts</h2>
 {% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}
+-->
 
 {% capture written_label %}'None'{% endcapture %}
 
@@ -35,3 +38,4 @@ A list of all the posts and pages found on the site. You can also take a look at
   {% endunless %}
 {% endfor %}
 {% endfor %}
+
