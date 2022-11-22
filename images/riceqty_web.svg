@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- This is a Stata 17.0 generated SVG file (http://www.stata.com) -->
+
+<svg version="1.1" width="500px" height="500px" viewBox="0 0 3960 3960" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>Stata Graph - rice_qty</desc>
+	<rect x="0" y="0" width="3960" height="3960" style="fill:#FFFFFF;stroke:none"/>
+	<rect x="2.88" y="2.88" width="3954.12" height="3954.24" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="258.76" y="456.54" width="3614.74" height="3312.54" style="fill:#FFFFFF"/>
+	<rect x="261.64" y="459.42" width="3608.98" height="3306.78" style="fill:none;stroke:#FFFFFF;stroke-width:5.76"/>
+	<rect x="2963.69" y="3355.76" width="411.72" height="373.84" style="fill:#486C8C;fill-opacity:0.90"/>
+	<rect x="2966.57" y="3358.64" width="405.96" height="368.09" style="fill:none;stroke:#1A476F;stroke-opacity:0.90;stroke-width:5.76"/>
+	<rect x="493.39" y="3259.27" width="411.72" height="470.33" style="fill:#486C8C;fill-opacity:0.90"/>
+	<rect x="496.27" y="3262.15" width="405.96" height="464.57" style="fill:none;stroke:#1A476F;stroke-opacity:0.90;stroke-width:5.76"/>
+	<rect x="1728.54" y="2907.55" width="411.72" height="822.05" style="fill:#486C8C;fill-opacity:0.90"/>
+	<rect x="1731.42" y="2910.43" width="405.96" height="816.29" style="fill:none;stroke:#1A476F;stroke-opacity:0.90;stroke-width:5.76"/>
+	<rect x="3375.41" y="1951.92" width="411.72" height="1777.68" style="fill:#FF9933;fill-opacity:0.90"/>
+	<rect x="3378.28" y="1954.80" width="405.96" height="1771.92" style="fill:none;stroke:#FF7F00;stroke-opacity:0.90;stroke-width:5.76"/>
+	<rect x="905.11" y="1066.06" width="411.72" height="2663.54" style="fill:#FF9933;fill-opacity:0.90"/>
+	<rect x="907.99" y="1068.94" width="405.96" height="2657.78" style="fill:none;stroke:#FF7F00;stroke-opacity:0.90;stroke-width:5.76"/>
+	<rect x="2140.26" y="1792.31" width="411.72" height="1937.29" style="fill:#FF9933;fill-opacity:0.90"/>
+	<rect x="2143.14" y="1795.19" width="405.96" height="1931.53" style="fill:none;stroke:#FF7F00;stroke-opacity:0.90;stroke-width:5.76"/>
+	<line x1="3169.49" y1="3170.96" x2="3169.49" y2="3540.55" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="3147.46" y1="3540.55" x2="3191.51" y2="3540.55" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="3147.46" y1="3170.96" x2="3191.51" y2="3170.96" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="3581.20" y1="1685.28" x2="3581.20" y2="2218.40" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="3559.17" y1="2218.40" x2="3603.23" y2="2218.40" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="3559.17" y1="1685.28" x2="3603.23" y2="1685.28" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="699.31" y1="2961.32" x2="699.31" y2="3557.23" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="677.28" y1="3557.23" x2="721.34" y2="3557.23" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="677.28" y1="2961.32" x2="721.34" y2="2961.32" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="1111.03" y1="798.40" x2="1111.03" y2="1333.73" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="1089.00" y1="1333.73" x2="1133.06" y2="1333.73" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="1089.00" y1="798.40" x2="1133.06" y2="798.40" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="1934.34" y1="2685.83" x2="1934.34" y2="3129.27" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="1912.31" y1="3129.27" x2="1956.36" y2="3129.27" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="1912.31" y1="2685.83" x2="1956.36" y2="2685.83" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="2346.05" y1="1518.52" x2="2346.05" y2="2066.10" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="2324.03" y1="2066.10" x2="2368.08" y2="2066.10" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="2324.03" y1="1518.52" x2="2368.08" y2="1518.52" stroke-linecap="round" style="stroke:#920000;stroke-width:8.64"/>
+	<line x1="258.76" y1="3769.08" x2="258.76" y2="456.54" style="stroke:#000000;stroke-width:5.76"/>
+	<line x1="258.76" y1="3729.60" x2="218.79" y2="3729.60" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="180.68" y="3729.60" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 180.68,3729.60)" text-anchor="middle">0</text>
+	<line x1="258.76" y1="2664.90" x2="218.79" y2="2664.90" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="180.68" y="2664.90" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 180.68,2664.90)" text-anchor="middle">10</text>
+	<line x1="258.76" y1="1600.37" x2="218.79" y2="1600.37" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="180.68" y="1600.37" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 180.68,1600.37)" text-anchor="middle">20</text>
+	<line x1="258.76" y1="535.84" x2="218.79" y2="535.84" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="180.68" y="535.84" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" transform="rotate(-90 180.68,535.84)" text-anchor="middle">30</text>
+	<text x="104.78" y="2112.90" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" transform="rotate(-90 104.78,2112.90)" text-anchor="middle">In kgs</text>
+	<line x1="258.76" y1="3769.08" x2="3873.50" y2="3769.08" style="stroke:#000000;stroke-width:5.76"/>
+	<text x="287.60" y="3854.33" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" text-anchor="middle"> </text>
+	<text x="905.11" y="3854.33" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" text-anchor="middle">Kalahandi-Bolangir-Koraput (KBK)</text>
+	<text x="2140.26" y="3854.33" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" text-anchor="middle">Non-KBK Drought-prone</text>
+	<text x="3375.41" y="3854.33" style="font-family:'Helvetica';font-size:60.02px;fill:#000000" text-anchor="middle">Others</text>
+	<rect x="3311.80" y="504.19" width="527.17" height="338.79" style="fill:#FFFFFF"/>
+	<rect x="3314.68" y="507.07" width="521.42" height="333.03" style="fill:none;stroke:#FFFFFF;stroke-opacity:0.00;stroke-width:5.76"/>
+	<rect x="3354.99" y="577.36" width="149.74" height="54.96" style="fill:#486C8C;fill-opacity:0.90"/>
+	<rect x="3357.87" y="580.24" width="143.98" height="49.20" style="fill:none;stroke:#1A476F;stroke-opacity:0.90;stroke-width:5.76"/>
+	<rect x="3354.99" y="714.85" width="149.74" height="54.96" style="fill:#FF9933;fill-opacity:0.90"/>
+	<rect x="3357.87" y="717.73" width="143.98" height="49.20" style="fill:none;stroke:#FF7F00;stroke-opacity:0.90;stroke-width:5.76"/>
+	<text x="3564.74" y="633.68" style="font-family:'Helvetica';font-size:60.02px;fill:#000000">2004-05</text>
+	<text x="3564.74" y="771.17" style="font-family:'Helvetica';font-size:60.02px;fill:#000000">2011-12</text>
+	<text x="2066.13" y="179.81" style="font-family:'Helvetica';font-weight:bold;font-size:79.94px;fill:#000000" text-anchor="middle">Change in rice purchase from Odisha's Public Distribution System</text>
+	<text x="2066.13" y="289.90" style="font-family:'Helvetica';font-size:79.94px;fill:#000000" text-anchor="middle"> </text>
+	<text x="2066.13" y="399.83" style="font-family:'Helvetica';font-weight:bold;font-size:79.94px;fill:#000000" text-anchor="middle">after the 2008 subsidy expansion</text>
+</svg>

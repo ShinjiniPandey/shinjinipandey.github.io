@@ -4,6 +4,7 @@
 
 .archive {
   margin-bottom: 2em;
+  font-family: $times;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -15,13 +16,17 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+	color: #000;
 
     &:hover {
       text-decoration: underline;
+	  text-decoration-thickness: 1px;
+	  color: $masthead-link-color-hover;
+
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 5px rgba(#000, 0.25);
       }
     }
   }
@@ -41,7 +46,9 @@
 
 .archive__item-title {
   margin-bottom: 0.25em;
-  font-family: $sans-serif-narrow;
+  font-family: $times;
+  font-size: $type-size-6; 
+
 
   a + a {
     opacity: 0.5;
@@ -59,10 +66,11 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  font-size: 0.5em;
 
   & + p {
     text-indent: 0;
+	
   }
 }
 
@@ -76,11 +84,12 @@
 
 .archive__item:hover {
   .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    box-shadow: 0 0 5px rgba(#000, 0.25);
   }
 
   .archive__item-title {
     text-decoration: underline;
+	text-decoration-thickness: 1px;
   }
 }
 
@@ -104,6 +113,7 @@
 
   .page__meta {
     margin: 0 0 4px;
+	
   }
 }
 
@@ -121,7 +131,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+	text-align: center;
   }
 
   .archive__item-excerpt {
@@ -129,16 +139,16 @@
   }
 
   @include breakpoint($small) {
-    @include gallery(5 of 10);
+    @include gallery(3 of 9);
     .archive__item-teaser {
       max-height: 200px;
     }
   }
 
-  @include breakpoint($medium) {
+  @include breakpoint($xx-large) {
     margin-left: 0; /* reset before mixin does its thing*/
     margin-right: 0; /* reset before mixin does its thing*/
-    @include gallery(2.5 of 10);
+    @include gallery(3 of 9);
 
     .archive__item-teaser {
       max-height: 120px;

@@ -176,12 +176,13 @@
   position: relative;
   min-width: 250px;
   background: $background-color;
+  font-family: $times;
 
   a {
     display: block;
-    margin: 0 1rem;
+    margin: 0 1rem 0 0;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #000000;
     text-decoration: none;
 
     &:hover {
@@ -209,7 +210,12 @@
       vertical-align: middle;
 
       &:first-child {
+		font-family: $times;
         font-weight: bold;
+	    font-size: 1.57em;
+		text-transform: Capitalize;
+		text-align: center;
+		
 
         a {
           margin-left: 0;
@@ -231,8 +237,8 @@
         position: absolute;
         left: 0;
         bottom: 0;
-        height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        height: 1px;
+        background: mix(#000, $primary-color, 20%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
