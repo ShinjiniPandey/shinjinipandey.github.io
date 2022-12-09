@@ -4,4 +4,3 @@ excerpt: "<img src='/images/20220619_164340_new.jpg' style='width:300px;height:3
 collection: portfolio
 ---
 
-fkhkjsdafkjdfgkjdf

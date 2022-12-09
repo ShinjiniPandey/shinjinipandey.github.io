@@ -10,6 +10,8 @@ I am a fourth-year Ph.D. student at Ohio State's [Department of Agricultural, En
 
 I have completed my Masters in Economics from [Indira Gandhi Institute of Development Research](http://www.igidr.ac.in/ "Indira Gandhi Institute of Development Research") and Bachelor of Commerce from [University of Delhi](http://www.du.ac.in/ "University of Delhi"). Before starting my Ph.D., I was working as a research assistant at [International Food Policy Research Institute](https://www.ifpri.org/ "International Food Policy Research Institute").<br /> <br />
 
-<address style="text-align:left;font-size:0.9em;color:#000000;font-family:Times New Roman">
+<!---
+<address style="text-align:left;font-size:0.7em;color:#000000;font-family:Times New Roman">
 	317 Ag. Administration Bldg. <br /> 2120 Fyffe Rd., Columbus, OH 43210 <br /> Email: <ins> pandey.129@osu.edu </ins> <br /> Pronouns: she/her/hers
 </address>
+-->

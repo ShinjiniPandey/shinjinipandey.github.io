@@ -4,4 +4,3 @@ excerpt: "<img src='/images/riceqty_web.png' style='width:300px;height:300px;bor
 collection: portfolio
 ---
 
-fkhkjsdafkjdfgkjdf

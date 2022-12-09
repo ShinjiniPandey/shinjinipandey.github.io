@@ -14,7 +14,7 @@ body {
   color: #000000;
   font-family: $times;
   line-height: 1.5;
-  border-top: 15px ridge #daa520;
+  border-top: none;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
