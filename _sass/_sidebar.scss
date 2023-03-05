@@ -40,7 +40,7 @@
 
   p, li {
     font-family: $times;
-    font-size: 0.80em;
+    font-size: 0.90em;
     line-height: 1.25;
 	color: #000000;
   }
@@ -84,7 +84,7 @@
   }
 
   img {
-    max-width: 105%;
+    max-width: 100%;
 	border-radius: 100px;
  
     @include breakpoint($large) {
