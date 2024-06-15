@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Publications"
+  - title: "Research"
     url: /publication_final/
     
-  - title: "Ongoing Research"
-    url: /portfolio/
+  # - title: "Ongoing Research"
+  #   url: /portfolio/
 
 #  - title: "Ongoing Research"
 #    url: /portfolio_alt/
