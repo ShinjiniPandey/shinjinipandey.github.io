@@ -177,6 +177,8 @@
   min-width: 250px;
   background: $background-color;
   font-family: $times;
+  font-size: 1.30em;
+
 
   a {
     display: block;
@@ -223,6 +225,7 @@
       }
 
       &:last-child {
+	
         a {
           margin-right: 0;
         }
@@ -399,7 +402,7 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: 0.8rem;
+  font-size: 1.8rem;
 
   a {
     display: block;
