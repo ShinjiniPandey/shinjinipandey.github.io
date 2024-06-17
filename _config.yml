@@ -178,7 +178,7 @@ collections:
   teaching:
     output: false
     permalink: /:collection/:path/
-  publications_final:
+  publication_final:
     output: true
     permalink: /:collection/:path/
   portfolio:
