@@ -15,6 +15,33 @@ A list of all the posts and pages found on the site. You can also take a look at
   {% include archive-single.html %}
 {% endfor %}
 
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/pub.html" rel="permalink">Research</a>
+      
+    </h2>
+
+  </article>
+</div>
+
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/resume" rel="permalink">CV</a>
+      
+    </h2>
+
+  </article>
+</div>
+
 <!---
 <h2>Posts</h2>
 {% for post in site.posts %}
