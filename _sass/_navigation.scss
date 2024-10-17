@@ -182,7 +182,7 @@
 
   a {
     display: block;
-    margin: 0 1rem 0 0;
+    margin: 0 1rem;
     padding: 0.5rem 0;
     color: #000000;
     text-decoration: none;
@@ -210,7 +210,7 @@
     li {
       display: table-cell;
       vertical-align: middle;
-
+  
       &:first-child {
 		font-family: $times;
         font-weight: bold;
@@ -402,7 +402,7 @@
   padding: 0;
   width: 100%;
   list-style: none;
-  font-size: 1.8rem;
+  font-size: 0.8rem;
 
   a {
     display: block;
@@ -419,18 +419,42 @@
     }
   }
 
+  li ul > li a {
+    padding-left: 1.25rem;
+    font-weight: normal;
+  }
+
+  li ul li ul > li a {
+    padding-left: 1.75rem;
+  }
+
+  li ul li ul li ul > li a {
+    padding-left: 2.25rem;
+  }
+
+  li ul li ul li ul li ul > li a {
+    padding-left: 2.75rem;
+  }
+
+  li ul li ul li ul li ul li ul > li a {
+    padding-left: 3.25rem
+  }
+}
+/*  
   > li:last-child {
     a {
       border-bottom: none;
     }
   }
 
+
   li ul > li a {
     padding-left: 2rem;
     font-weight: normal;
   }
-
+*/
   /* hide sub sub links on small screens*/
+/*  
   li > ul li {
     display: none;
 
@@ -439,3 +463,4 @@
     }
   }
 }
+*/
