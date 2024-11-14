@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a style="color:#055c9d;" href="/files/CV/Shinjini_CV.pdf"> 
+<a style="color:#046490;" href="/files/CV/Shinjini_CV.pdf"> 
 	<b>Download CV here</b> <br/><br/>
 </a>
   
