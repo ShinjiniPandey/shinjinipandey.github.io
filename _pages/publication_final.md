@@ -53,7 +53,7 @@ Community-engaged Qualitative Study of Police Response to 911 Calls for Mental H
     </div>
 </details>
 
-Food Price Subsidies & Nutrition in India: Is Less Targeting More?  
+<a href="/files/PDS_Paper_Shinjini.pdf">Food Price Subsidies & Nutrition in India: Is Less Targeting More?</a>  
 <p style="padding:0 0 0; margin-top:-0.8em;">With Tanvi Rao, and Leah Bevis</p>
   <details style="padding:0 0 0.25em; margin-top:-1.0em;"> 
     <summary style="display:inline; cursor:pointer;">
