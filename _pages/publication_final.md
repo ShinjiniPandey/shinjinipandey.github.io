@@ -8,7 +8,7 @@ redirect_from:
 ---
 <h2 style="margin-top:-2.0em;margin-bottom:1.0em;">Publications</h2>
 
-Hefner, J.L., Noghrehchi, P.J., David, S., Pandey, S., & Bevis, L.E.M. (2025). A Community-engaged Qualitative Study of Police Response to 911 Calls for Behavioral Health Crises **Accepted in Progress in Community Health Partnerships: Research, Education, and Action**, In press.
+Hefner, J.L., Noghrehchi, P.J., David, S., Pandey, S., & Bevis, L.E.M. (2025). A Community-engaged Qualitative Study of Police Response to 911 Calls for Behavioral Health Crises. **Accepted in Progress in Community Health Partnerships: Research, Education, and Action**, In press.
 
 Kumar, N., Raghunathan, K., Arrieta, A., Jilani, A., & Pandey, S. (2021). [The Power of the collective empowers women: Evidence from self-help groups in India](https://www.sciencedirect.com/science/article/pii/S0305750X21001947). **World Development**, 146, 105579  
 
