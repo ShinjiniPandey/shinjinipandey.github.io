@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Shinjini Pandey"
 title_separator          : "-"
 name                     : &name "Shinjini Pandey"
-description              : &description "PhD Student"
+description              : &description "Postdoctoral Associate"
 url                      : https://shinjinipandey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ShinjiniPandey/shinjinipandey.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
 #  name             : "Shinjini Pandey"
   avatar           : "IMG_3982.png"
-  bio              : "Ph.D. Candidate <br> <a style='color: black;' href='https://www.osu.edu/'>Ohio State University</a>"
-  location         : "Columbus, OH"
+  bio              : "Postdoctoral Associate <br> <a style='color: black;' href='https://www.osu.edu/'>Duke University</a>"
+  location         : "Boston, MA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=7vEjRLQAAAAJ&hl=en&oi=ao"
-  email            : "pandey.129@osu.edu"
+  email            : "shinjini.pandey@duke.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "shinjini-pandey-167414ba" 
-  orcid            : #"http://orcid.org/yourorcidurl"
+  linkedin         : "shinjini-pandey" 
+  orcid            : "https://orcid.org/0000-0002-4982-2174"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
