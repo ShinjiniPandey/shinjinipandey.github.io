@@ -14,6 +14,4 @@ Another strand of my research in development economics focuses on food security,
 
 To learn more about my research, [click here](/publication_final/).&ensp;
 
-To download my CV,<a style="color:#046490;" href="/files/CV/Shinjini_CV.pdf"> click here</a>.    
-
-**Contact:**&ensp;pandey.129@osu.edu 
+**Contact:**&ensp;shinjini.pandey@duke.edu 
