@@ -37,7 +37,7 @@ Coding Bias: The Role of Racial-Ethnic identity in 911 Call Dispatching Decision
 
 Exploring Alternative Models of 911 Response to Behavioral Health Crises: Evidence from a mixed methods study in Columbus, Ohio
 <p style="padding:0 0 0; margin-top:-0.8em">
-  _With Leah Bevis, Pejmon Noghrehchi, Steve David, and Jennifer L Hefner_  
+  <em>With Leah Bevis, Pejmon Noghrehchi, Steve David, and Jennifer L Hefner</em> 
 </p>
 <details style="padding:0 0 1.5em; margin-top:-1.0em;"> 
   <summary style="display:inline; cursor:pointer;">
@@ -49,7 +49,7 @@ Exploring Alternative Models of 911 Response to Behavioral Health Crises: Eviden
 </details>
 
 <a href="/files/PDS_Paper_Shinjini.pdf">Food Price Subsidies & Nutrition in India: Is Less Targeting More?</a>  
-<p style="padding:0 0 0; margin-top:-0.8em;">With Tanvi Rao, and Leah Bevis</p>
+<p style="padding:0 0 0; margin-top:-0.8em;"><em>With Tanvi Rao, and Leah Bevis</em></p>
   <details style="padding:0 0 0.25em; margin-top:-1.0em;"> 
     <summary style="display:inline; cursor:pointer;">
       <span style="color: #046490;font-weight: bold;">&#187; Abstract</span>
@@ -64,7 +64,7 @@ Exploring Alternative Models of 911 Response to Behavioral Health Crises: Eviden
 <h2 style="margin-top:2.0em;margin-bottom:1.0em;">Work in Progress</h2>
 
 From Training to Practice: Evaluating impact of Crisis Intervention Training on Behavioral Health Crisis Response
-<p style="padding:0 0 0; margin-top:-0.8em;">With Leah Bevis, Pejmon Noghrehchi, Steve David, and Jennifer L Hefner</p>
+<p style="padding:0 0 0; margin-top:-0.8em;"><em>With Leah Bevis, Pejmon Noghrehchi, Steve David, and Jennifer L Hefner</em></p>
 
 Farmers’ willingness to pay for solar irrigation pumps: Learnings from Ghana 
 
