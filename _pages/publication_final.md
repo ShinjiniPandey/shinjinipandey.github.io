@@ -37,7 +37,7 @@ Coding Bias: The Role of Racial-Ethnic identity in 911 Call Dispatching Decision
 
 Exploring Alternative Models of 911 Response to Behavioral Health Crises: Evidence from a mixed methods study in Columbus, Ohio
 <p style="padding:0 0 0; margin-top:-0.8em">
-  With Leah Bevis, Pejmon Noghrehchi, Steve David, and Jennifer L Hefner  
+  _With Leah Bevis, Pejmon Noghrehchi, Steve David, and Jennifer L Hefner_  
 </p>
 <details style="padding:0 0 1.5em; margin-top:-1.0em;"> 
   <summary style="display:inline; cursor:pointer;">
