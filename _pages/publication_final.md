@@ -15,9 +15,12 @@ Kumar, N., Raghunathan, K., Arrieta, A., Jilani, A., & Pandey, S. (2021). [The P
 
 Pandey, S., Dutta, G., & Joshi, H. (2017). [Survey on Revenue Management in Media and Broadcasting](https://pubsonline.informs.org/doi/abs/10.1287/inte.2017.0886?journalCode=inte). **Interfaces**, 47(3), 195-213 
 
+
+
 <h2 style="margin-top:2.0em;margin-bottom:1.0em;">Other Articles</h2>
 
 Menon, P., Avula, R., Pandey, S., Scott, S., & Kumar, A. (2019). [Rethinking Effective Nutrition Convergence: An Analysis of Intervention Co-coverage Data](https://www.epw.in/journal/2019/24/commentary/rethinking-effective-nutrition-convergence.html). **Economic & Political Weekly**, 54(24), 18-21. (Commentary)
+
 
 
 <h2 style="margin-top:2.0em;margin-bottom:1.0em;">Working Papers</h2>
@@ -55,6 +58,7 @@ Exploring Alternative Models of 911 Response to Behavioral Health Crises: Eviden
       India’s Public Distribution System (PDS) is the largest food-based social safety net in the world, and many in India argue that it should be universalized rather than targeted based on household income. We use a natural experiment to ask whether universalizing PDS in the Indian state of Odisha improved access to PDS entitlements and ultimately women’s health. In 2008, the Odisha government simultaneously increased PDS entitlements and universalized access to the PDS in the particularly poor Kalahandi-Balangir-Koraput (KBK) region. In the rest of the state, the government increased PDS entitlements for poor households in an equivalent manner, but did not universalize PDS. We exploit this variation in reform implementation and find that while universalization had little effect on womens' health (BMI) in above poverty line households, it improved health in below poverty line households. We also examine the mechanisms that drive these improvements in health.
     </div>
 </details>
+
 
 
 <h2 style="margin-top:2.0em;margin-bottom:1.0em;">Work in Progress</h2>
