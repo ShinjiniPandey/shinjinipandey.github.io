@@ -6,7 +6,7 @@ redirect_from:
   - "/pub/"
   - "/pub.html"  
 ---
-<h2 style="margin-top:-2.0em;margin-bottom:1.0em;">Publications</h2>
+<h2 style="margin-top:-1.5em;margin-bottom:1.0em;">Publications</h2>
 
 Hefner, J.L., Noghrehchi, P.J., David, S., Pandey, S., & Bevis, L.E.M. (2025). A Community-engaged Qualitative Study of Police Response to 911 Calls for Behavioral Health Crises. **Accepted in Progress in Community Health Partnerships: Research, Education, and Action**, In press.
 
