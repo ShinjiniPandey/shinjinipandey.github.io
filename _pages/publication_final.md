@@ -7,27 +7,29 @@ redirect_from:
   - "/pub.html"  
 ---
 
-
-<h2 style="margin-top:-1.0em;margin-bottom:1.0em;">Job Market Paper</h2>
-
-<a href="/files/JMP/JMP_Shinjini.pdf">Coding Bias: The Role of Racial-Ethnic identity in 911 Call Dispatching Decisions</a> 
-<p style="text-align: justify;">
-  <span style="font-weight: bold;">Abstract</span>
-  This study is the first to empirically investigate racial bias in police dispatch process. Call-takers and dispatchers, the first to field emergency and non-emergency calls, play a crucial role in police dispatch operations. They assign a descriptive code to the incident, assess event priority, and dispatch assistance with an eye to urgency and special skills needed. However, anecdotal evidence suggests bias in dispatch decisions, which could be influencing police behavior. Using police administrative data from Columbus, Ohio, I examine if call-takers and dispatchers classify calls, prioritize calls, and/or dispatch police assistance differently when the individual involved in the call is non-white or Hispanic, as compared to being a white individual. To identify the causal impact of race, I compare dispatch outcomes by race within semantically similar calls from the same neighborhood. These semantically similar calls are identified using a large language model and clustering methods applied to text-based call summaries. For now, I examine only the calls that potentially involve a gun, considering a total of 275 clusters. I find, dispatch officials are more likely to assign a high-threat classification (e.g., “person with a gun” or “shooting”)—which requires an immediate and heavy deployment of police resources—to calls involving non-white individuals. For instance, for domestic conflicts involving a gun threat, non-white individuals are 9.6 pp (33.8%) more likely to receive a “person with a gun” classification. For behavioral health crises involving a gun threat, they are 6.2 pp (29.1%) more likely to receive this classification. Additionally, I find suggestive evidence that these dispatch decisions could be mediating officer decisions, such as officer response times and decision to arrest, but only for domestic conflicts and not in other situations.
-</p>
-
-
-
 <h2 style="margin-top:2.0em;margin-bottom:1.0em;">Publications</h2>
+
+Hefner, J.L., Noghrehchi, P.J., David, S., Pandey, S., & Bevis, L.E.M. (2025). [A Community-engaged Qualitative Study of Police Response to 911 Calls for Behavioral Health Crises] **Accepted in Progress in Community Health Partnerships: Research, Education, and Action**, In press.
 
 Kumar, N., Raghunathan, K., Arrieta, A., Jilani, A., & Pandey, S. (2021). [The Power of the collective empowers women: Evidence from self-help groups in India](https://www.sciencedirect.com/science/article/pii/S0305750X21001947). **World Development**, 146, 105579  
 
 Pandey, S., Dutta, G., & Joshi, H. (2017). [Survey on Revenue Management in Media and Broadcasting](https://pubsonline.informs.org/doi/abs/10.1287/inte.2017.0886?journalCode=inte). **Interfaces**, 47(3), 195-213 
 
+<h2 style="margin-top:2.0em;margin-bottom:1.0em;">Other Articles</h2>
 
+Menon, P., Avula, R., Pandey, S., Scott, S., & Kumar, A. (2019). [Rethinking Effective Nutrition Convergence: An Analysis of Intervention Co-coverage Data](https://www.epw.in/journal/2019/24/commentary/rethinking-effective-nutrition-convergence.html). **Economic & Political Weekly**, 54(24), 18-21. (Commentary)
 
 
 <h2 style="margin-top:2.0em;margin-bottom:1.0em;">Working Papers</h2>
+
+Coding Bias: The Role of Racial-Ethnic identity in 911 Call Dispatching Decisions
+ <details style="padding:0 0 1.5em; margin-top:-1.0em;"> 
+  <summary style="display:inline; cursor:pointer;">
+    <span style="color: #046490;font-weight: bold;">&#187; Abstract</span>
+  </summary>
+    <div style="text-align: justify;"> 
+  This study is the first to empirically investigate racial bias in police dispatch process. Call-takers and dispatchers, the first to field emergency and non-emergency calls, play a crucial role in police dispatch operations. They assign a descriptive code to the incident, assess event priority, and dispatch assistance with an eye to urgency and special skills needed. However, anecdotal evidence suggests bias in dispatch decisions, which could be influencing police behavior. Using police administrative data from Columbus, Ohio, I examine if call-takers and dispatchers classify calls, prioritize calls, and/or dispatch police assistance differently when the individual involved in the call is non-white or Hispanic, as compared to being a white individual. To identify the causal impact of race, I compare dispatch outcomes by race within semantically similar calls from the same neighborhood. These semantically similar calls are identified using a large language model and clustering methods applied to text-based call summaries. For now, I examine only the calls that potentially involve a gun, considering a total of 275 clusters. I find, dispatch officials are more likely to assign a high-threat classification (e.g., “person with a gun” or “shooting”)—which requires an immediate and heavy deployment of police resources—to calls involving non-white individuals. For instance, for domestic conflicts involving a gun threat, non-white individuals are 9.6 pp (33.8%) more likely to receive a “person with a gun” classification. For behavioral health crises involving a gun threat, they are 6.2 pp (29.1%) more likely to receive this classification. Additionally, I find suggestive evidence that these dispatch decisions could be mediating officer decisions, such as officer response times and decision to arrest, but only for domestic conflicts and not in other situations.
+</p>
 
 Exploring Alternative Models of 911 Response to Behavioral Health Crises: Evidence from a mixed methods study in Columbus, Ohio
 <p style="padding:0 0 0; margin-top:-0.8em">
@@ -39,17 +41,6 @@ Exploring Alternative Models of 911 Response to Behavioral Health Crises: Eviden
   </summary>
     <div style="text-align: justify;">
       We assess the effectiveness of a widely adopted police response model for behavioral health crises in the US: the co-response program, where police officers and non-police professionals jointly respond to a crisis. Despite its widespread adoption, no rigorous evaluation has measured its impact on crisis outcomes. In Columbus, Ohio we conduct such an evaluation by: (1) using police dispatch data to estimate the causal impact of Mobile Crisis Response (MCR) teams vis-à-vis standard police response, and (2) conducting interviews with individuals who recently called 911 for a behavioral health crisis to assess their experience with standard police and/or MCR teams, and gather opinions on improved crisis response models. To address endogeneity of triaged response, the quantitative analysis employs a two-stage-least squares strategy which exploits quasi-random variation in MCR capacity to answer calls. We find that although MCR teams spend more time on mental health crisis and provide a better experience to those in crisis, they do not improve call disposition or service linkages. Interviews reveal significant heterogeneity in the quality of police response. Even experience with MCR teams vary, depending on who takes the lead — police officers, social workers, or standard police units arriving first. Our research suggests that co-response may be less impactful than policymakers wish to believe.
-    </div>
-</details>
-
-Community-engaged Qualitative Study of Police Response to 911 Calls for Mental Health and Substance Abuse Crises: First of all, you are not sending the right people **[Under Review]** 
-<p style="padding:0 0 0; margin-top:-0.8em;">With Jennifer L Hefner, Pejmon Noghrehchi, Steve David, Jasmine Ayers, and Leah Bevis</p>
-  <details style="padding:0 0 1.5em; margin-top:-1.0em;"> 
-    <summary style="display:inline; cursor:pointer;">
-      <span style="color: #046490;font-weight: bold;">&#187; Abstract</span>
-    </summary>
-    <div style="text-align: justify;">
-      During 2023 in Columbus, Ohio, 30 semi-structured interviews with community members impacted by police response to 911 calls for behavioral health (BH) crises found variation in the demeanor of responding police within the same neighborhood, pervasive reluctance to call the police during BH crises, and strong support for a non-police response program–making specific recommendations for its structure. Given this, while non-police response models proliferate across the country, the community should be engaged in model development and impact studies. 
     </div>
 </details>
 
@@ -74,9 +65,6 @@ Farmers’ willingness to pay for solar irrigation pumps: Learnings from Ghana
 
 
 
-<h2 style="margin-top:2.0em;margin-bottom:1.0em;">Other Articles</h2>
-
-Menon, P., Avula, R., Pandey, S., Scott, S., & Kumar, A. (2019). [Rethinking Effective Nutrition Convergence: An Analysis of Intervention Co-coverage Data](https://www.epw.in/journal/2019/24/commentary/rethinking-effective-nutrition-convergence.html). **Economic & Political Weekly**, 54(24), 18-21. (Commentary)
 
 
 <!--
@@ -107,4 +95,9 @@ the presence of economic uncertainty.
             </div>
           </div>    
           </div>   
+
+
+          <p style="text-align: justify;">
+  <span style="font-weight: bold;">Abstract</span>
+
 -->
