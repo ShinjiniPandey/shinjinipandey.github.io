@@ -8,9 +8,11 @@ redirect_from:
 ---
 <h2 style="margin-top:-1.5em;margin-bottom:1.0em;">Publications</h2>
 
-Hefner, J.L., Noghrehchi, P.J., David, S., Pandey, S., & Bevis, L.E.M. (2025). A Community-engaged Qualitative Study of Police Response to 911 Calls for Behavioral Health Crises. **Accepted in Progress in Community Health Partnerships: Research, Education, and Action**, In press.
+Hefner, J.L., Noghrehchi, P.J., David, S., Pandey, S., & Bevis, L.E.M. (2025). [A Community-engaged Qualitative Study of Police Response to 911 Calls for Behavioral Health Crises](https://preprint.press.jhu.edu/pchp/preprints/community-engaged-qualitative-study-police-response-911-calls-behavioral-health-crises). **Progress in Community Health Partnerships: Research, Education, and Action**. Online ahead of print.
 
 Kumar, N., Raghunathan, K., Arrieta, A., Jilani, A., & Pandey, S. (2021). [The Power of the collective empowers women: Evidence from self-help groups in India](https://www.sciencedirect.com/science/article/pii/S0305750X21001947). **World Development**, 146, 105579  
+
+Raghunathan, K., Menon, P., Kumar, N., Gupta, S., Chauhan, T., Pandey, S., & Kathuria, A. (2020). [If only I knew: nutrition behavior change delivered by women’s groups has impacts on diet quality that are mediated by knowledge in rural Bihar, India](https://www.sciencedirect.com/science/article/pii/S247529912308407X). **Current Developments in Nutrition**, 4, nzaa053_094.
 
 Menon, P., Avula, R., Pandey, S., Scott, S., & Kumar, A. (2019). [Rethinking Effective Nutrition Convergence: An Analysis of Intervention Co-coverage Data](https://www.epw.in/journal/2019/24/commentary/rethinking-effective-nutrition-convergence.html). **Economic & Political Weekly**, 54(24), 18-21. (Commentary)
 
