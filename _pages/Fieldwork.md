@@ -22,6 +22,7 @@ author_profile: true
 }
 .fw-slides {
   display: flex;
+  width: 100%;
   transition: transform 0.4s ease;
 }
 .fw-slides img {
