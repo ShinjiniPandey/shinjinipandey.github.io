@@ -22,19 +22,17 @@ author_profile: true
 }
 .fw-slides {
   display: flex;
-  width: 100%;
   transition: transform 0.4s ease;
 }
 .fw-slides img {
-  flex: 0 0 100%;
-  width: 100%;
+  flex-shrink: 0;
   height: 500px;
   object-fit: cover;
   display: block;
 }
 .fw-btn {
   position: absolute;
-  top: 50%;
+  top: 45%;
   transform: translateY(-50%);
   background: rgba(0,0,0,0.45);
   color: #fff;
@@ -51,7 +49,7 @@ author_profile: true
 .fw-btn.next { right: 8px; }
 .fw-dots {
   text-align: center;
-  margin-top: 10px;
+  padding: 10px 0 4px;
 }
 .fw-dot {
   display: inline-block;
@@ -66,14 +64,14 @@ author_profile: true
 .fw-dot.active { background: #cb2027; }
 .fw-counter {
   text-align: center;
-  margin-top: 6px;
+  padding-bottom: 6px;
   font-size: 0.85em;
   color: #666;
 }
 </style>
 
-<div class="fw-carousel">
-  <div class="fw-track">
+<div class="fw-carousel" id="fw-carousel">
+  <div class="fw-track" id="fw-track">
     <div class="fw-slides" id="fw-slides">
       <img src="/images/Fieldwork/20220527_165750.jpg" alt="Fieldwork Ghana">
       <img src="/images/Fieldwork/20220607_183343.jpg" alt="Fieldwork Ghana">
@@ -89,63 +87,86 @@ author_profile: true
       <img src="/images/Fieldwork/20220619_164340.jpg" alt="Fieldwork Ghana">
     </div>
   </div>
-  <button class="fw-btn prev" onclick="fwMove(-1)">&#8249;</button>
-  <button class="fw-btn next" onclick="fwMove(1)">&#8250;</button>
+  <button class="fw-btn prev" id="fw-prev">&#8249;</button>
+  <button class="fw-btn next" id="fw-next">&#8250;</button>
+  <div class="fw-dots" id="fw-dots"></div>
+  <div class="fw-counter" id="fw-counter"></div>
 </div>
-<div class="fw-dots" id="fw-dots"></div>
-<div class="fw-counter" id="fw-counter"></div>
 
 <script>
-(function () {
+document.addEventListener('DOMContentLoaded', function () {
+  var track = document.getElementById('fw-track');
   var slides = document.getElementById('fw-slides');
   var dotsContainer = document.getElementById('fw-dots');
   var counter = document.getElementById('fw-counter');
-  var total = slides.children.length;
+  var imgs = slides.getElementsByTagName('img');
+  var total = imgs.length;
   var current = 0;
+
+  function slideWidth() {
+    return track.offsetWidth;
+  }
+
+  function setImageWidths() {
+    var w = slideWidth();
+    for (var i = 0; i < total; i++) {
+      imgs[i].style.width = w + 'px';
+    }
+  }
+
+  setImageWidths();
 
   for (var i = 0; i < total; i++) {
     var d = document.createElement('span');
-    d.className = 'fw-dot' + (i === 0 ? ' active' : '');
-    d.setAttribute('data-i', i);
-    d.onclick = function () { fwGo(parseInt(this.getAttribute('data-i'))); };
+    d.style.cssText = 'display:inline-block;width:9px;height:9px;margin:0 4px;border-radius:50%;cursor:pointer;transition:background 0.2s;background:#ccc;';
+    d.setAttribute('data-i', String(i));
+    d.addEventListener('click', (function (idx) {
+      return function () { go(idx); };
+    })(i));
     dotsContainer.appendChild(d);
   }
 
   function update() {
-    slides.style.transform = 'translateX(-' + current * 100 + '%)';
-    var dots = dotsContainer.querySelectorAll('.fw-dot');
-    dots.forEach(function (d, i) {
-      d.className = 'fw-dot' + (i === current ? ' active' : '');
-    });
+    slides.style.transform = 'translateX(-' + (current * slideWidth()) + 'px)';
+    var dots = dotsContainer.getElementsByTagName('span');
+    for (var i = 0; i < dots.length; i++) {
+      dots[i].style.background = i === current ? '#cb2027' : '#ccc';
+    }
     counter.textContent = (current + 1) + ' / ' + total;
   }
 
-  window.fwMove = function (dir) {
+  function move(dir) {
     current = (current + dir + total) % total;
     update();
-  };
+  }
 
-  window.fwGo = function (i) {
-    current = i;
+  function go(idx) {
+    current = idx;
     update();
-  };
+  }
 
-  update();
+  document.getElementById('fw-prev').addEventListener('click', function () { move(-1); });
+  document.getElementById('fw-next').addEventListener('click', function () { move(1); });
 
-  // Keyboard navigation
   document.addEventListener('keydown', function (e) {
-    if (e.key === 'ArrowLeft') fwMove(-1);
-    if (e.key === 'ArrowRight') fwMove(1);
+    if (e.key === 'ArrowLeft') move(-1);
+    if (e.key === 'ArrowRight') move(1);
   });
 
-  // Touch/swipe support
   var startX = null;
   slides.addEventListener('touchstart', function (e) { startX = e.touches[0].clientX; }, { passive: true });
   slides.addEventListener('touchend', function (e) {
     if (startX === null) return;
     var dx = e.changedTouches[0].clientX - startX;
-    if (Math.abs(dx) > 40) fwMove(dx < 0 ? 1 : -1);
+    if (Math.abs(dx) > 40) move(dx < 0 ? 1 : -1);
     startX = null;
   }, { passive: true });
-})();
+
+  window.addEventListener('resize', function () {
+    setImageWidths();
+    update();
+  });
+
+  update();
+});
 </script>
