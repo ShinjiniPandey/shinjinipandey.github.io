@@ -21,7 +21,7 @@ Pandey, S., Dutta, G., & Joshi, H. (2017). [Survey on Revenue Management in Medi
 
 <h2 style="margin-top:2.0em;margin-bottom:1.0em;">Working Papers</h2>
 
-Coding Bias: The Role of Racial-Ethnic identity in 911 Call Dispatching Decisions
+Coding Bias: The Role of Race in 911 Call Handling
  <details style="padding:0 0 1.5em; margin-top:-1.0em;"> 
   <summary style="display:inline; cursor:pointer;">
     <span style="color: #046490;font-weight: bold;">&#187; Abstract</span>
