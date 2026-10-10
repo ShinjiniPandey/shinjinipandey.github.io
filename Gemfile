@@ -16,7 +16,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
@@ -34,3 +34,19 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "webrick", "~> 1.7"
+
+# Needed for Ruby 3.4+ / 4.0
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "ostruct"
+
+# Local-preview fix: Liquid 4.0.3 calls tainted?, which Ruby 3.2+ removed
+unless Object.method_defined?(:tainted?)
+  class ::Object
+    def tainted?; false; end
+    def taint; self; end
+    def untaint; self; end
+  end
+end

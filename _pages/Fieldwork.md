@@ -4,9 +4,7 @@ title: ""
 author_profile: true
 ---
 
-<div style="text-align: center;">
-  <h2 style="color: #cb2027;">Fieldwork in Ghana</h2>
-</div>
+<h2 class="sp-heading first">Fieldwork in Ghana</h2>
 
 <style>
 .fw-carousel {
@@ -18,7 +16,7 @@ author_profile: true
 }
 .fw-track {
   overflow: hidden;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 .fw-slides {
   display: flex;
@@ -44,29 +42,18 @@ author_profile: true
   z-index: 10;
   line-height: 1;
 }
-.fw-btn:hover { background: rgba(0,0,0,0.7); }
+.fw-btn:hover { background: rgba(4,100,144,0.85); }
 .fw-btn.prev { left: 8px; }
 .fw-btn.next { right: 8px; }
 .fw-dots {
   text-align: center;
   padding: 10px 0 4px;
 }
-.fw-dot {
-  display: inline-block;
-  width: 9px;
-  height: 9px;
-  margin: 0 4px;
-  background: #ccc;
-  border-radius: 50%;
-  cursor: pointer;
-  transition: background 0.2s;
-}
-.fw-dot.active { background: #cb2027; }
 .fw-counter {
   text-align: center;
   padding-bottom: 6px;
   font-size: 0.85em;
-  color: #666;
+  color: #555;
 }
 </style>
 
@@ -95,6 +82,7 @@ author_profile: true
 
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+  var ACCENT = '#046490';
   var track = document.getElementById('fw-track');
   var slides = document.getElementById('fw-slides');
   var dotsContainer = document.getElementById('fw-dots');
@@ -130,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function () {
     slides.style.transform = 'translateX(-' + (current * slideWidth()) + 'px)';
     var dots = dotsContainer.getElementsByTagName('span');
     for (var i = 0; i < dots.length; i++) {
-      dots[i].style.background = i === current ? '#cb2027' : '#ccc';
+      dots[i].style.background = i === current ? ACCENT : '#ccc';
     }
     counter.textContent = (current + 1) + ' / ' + total;
   }

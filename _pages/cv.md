@@ -7,26 +7,8 @@ redirect_from:
   - /resume
 ---
 
-<a style="color:#046490;" href="/files/CV/Shinjini_CV.pdf"> 
-	<b>Download CV here</b> <br/><br/>
-</a>
-  
+<a href="/files/CV/Shinjini_CV.pdf" style="color: #046490;">&#187; Download CV (PDF)</a>
+
 <!---
-<div style="display:block;margin:0;padding:0;border:0;outline:0;font-size:10px!important;color:#AAA!important;vertical-align:baseline;background:transparent;width:100%;height:100%;">
-  <iframe frameborder="0" src="/files/CV/Shinjini_CV.pdf" width="80%" height="450"></iframe>
-</div>
-
-
-
-<div style="position:relative;height:100vh;">
-<iframe src="/files/CV/Shinjini_CV.pdf" width="100%" height="100%" border="none" margin="0" padding="0" allowfullscreen></iframe>
-</div>	
-
-
-
 <iframe src="/files/CV/Shinjini_CV.pdf" width="85%" height="1050" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-
-
 -->
-
