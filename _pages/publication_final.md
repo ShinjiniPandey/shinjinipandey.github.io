@@ -22,7 +22,7 @@ redirect_from:
 <div class="sp-card">
   <div class="sp-title">Understanding Demand for Police Alternatives </div>
   <div class="sp-meta"><em>With Bocar Ba, Meghna Baskar, Tony Cheng, Rei Mariman, and Maxime Menuet </em></div>
-  <div class="sp-meta">[Reject & Resubmit at <strong>Journal of Political Economy</strong>]</div>
+  <div class="sp-meta">Reject & Resubmit at <strong style="color:#000;">Journal of Political Economy</strong></div>
   <details>
     <summary>&#187; Abstract</summary>
     <div class="sp-abstract">
@@ -70,30 +70,30 @@ redirect_from:
 
 <div class="sp-card">
   <div class="sp-title"><a href="https://muse.jhu.edu/article/987069">A Community-engaged Qualitative Study of Police Response to 911 Calls for Behavioral Health Crises</a></div>
-  <div class="sp-meta">Hefner, J.L., Noghrehchi, P.J., David, S., <strong>Pandey, S.</strong>, &amp; Bevis, L.E.M. (2025)</div>
+  <div class="sp-meta">Hefner, J.L., Noghrehchi, P.J., David, S., <strong style="color:#000;">Pandey, S.</strong>, &amp; Bevis, L.E.M. (2025)</div>
   <div class="sp-venue"><em>Progress in Community Health Partnerships: Research, Education, and Action</em>, 20(1), 13–22</div>
 </div>
 
 <div class="sp-card">
   <div class="sp-title"><a href="https://www.sciencedirect.com/science/article/pii/S0305750X21001947">The Power of the Collective Empowers Women: Evidence from Self-Help Groups in India</a></div>
-  <div class="sp-meta">Kumar, N., Raghunathan, K., Arrieta, A., Jilani, A., &amp; <strong>Pandey, S.</strong> (2021)</div>
+  <div class="sp-meta">Kumar, N., Raghunathan, K., Arrieta, A., Jilani, A., &amp; <strong style="color:#000;">Pandey, S.</strong> (2021)</div>
   <div class="sp-venue"><em>World Development</em>, 146, 105579</div>
 </div>
 
 <div class="sp-card">
   <div class="sp-title"><a href="https://www.sciencedirect.com/science/article/pii/S247529912308407X">If Only I Knew: Nutrition Behavior Change Delivered by Women’s Groups Has Impacts on Diet Quality that Are Mediated by Knowledge in Rural Bihar, India</a></div>
-  <div class="sp-meta">Raghunathan, K., Menon, P., Kumar, N., Gupta, S., Chauhan, T., <strong>Pandey, S.</strong>, &amp; Kathuria, A. (2020)</div>
+  <div class="sp-meta">Raghunathan, K., Menon, P., Kumar, N., Gupta, S., Chauhan, T., <strong style="color:#000;">Pandey, S.</strong>, &amp; Kathuria, A. (2020)</div>
   <div class="sp-venue"><em>Current Developments in Nutrition</em>, 4, nzaa053_094</div>
 </div>
 
 <div class="sp-card">
   <div class="sp-title"><a href="https://www.epw.in/journal/2019/24/commentary/rethinking-effective-nutrition-convergence.html">Rethinking Effective Nutrition Convergence: An Analysis of Intervention Co-coverage Data</a></div>
-  <div class="sp-meta">Menon, P., Avula, R., <strong>Pandey, S.</strong>, Scott, S., &amp; Kumar, A. (2019)</div>
+  <div class="sp-meta">Menon, P., Avula, R., <strong style="color:#000;">Pandey, S.</strong>, Scott, S., &amp; Kumar, A. (2019)</div>
   <div class="sp-venue"><em>Economic &amp; Political Weekly</em>, 54(24), 18–21 (Commentary)</div>
 </div>
 
 <div class="sp-card">
   <div class="sp-title"><a href="https://pubsonline.informs.org/doi/abs/10.1287/inte.2017.0886?journalCode=inte">Survey on Revenue Management in Media and Broadcasting</a></div>
-  <div class="sp-meta"><strong>Pandey, S.</strong>, Dutta, G., &amp; Joshi, H. (2017)</div>
+  <div class="sp-meta"><strong style="color:#000;">Pandey, S.</strong>, Dutta, G., &amp; Joshi, H. (2017)</div>
   <div class="sp-venue"><em>Interfaces</em>, 47(3), 195–213</div>
 </div>
