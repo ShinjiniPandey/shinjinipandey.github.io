@@ -20,7 +20,18 @@ redirect_from:
 </div>
 
 <div class="sp-card">
-  <div class="sp-title">Exploring Alternative Models of 911 Response to Behavioral Health Crises: Evidence from a Mixed Methods Study in Columbus, Ohio</div>
+  <div class="sp-title">“Can Police–Social Worker Partnerships Improve Crisis Response? Evidence from Columbus, Ohio</div>
+  <div class="sp-meta"><em>With Bocar Ba, Tony Cheng, Rei Mariman, and Maxime Menuet </em>[**Reject & Resubmit  at Journal of Political Economy**]</div>
+  <details>
+    <summary>&#187; Abstract</summary>
+    <div class="sp-abstract">
+      Police-clinician co-response is expanding for behavioral crises, but evidence of impact is limited. We evaluate Columbus, Ohio’s Mobile Crisis Response (MCR) program, five citywide police–social worker teams that, due to binding capacity, served only 7–8% of eligible mental health 911 calls. Leveraging random variation in response capacity and detailed data on police dispatch, use-of-force, arrests, and involuntary transports, we estimate LATEs that describe impacts on healthcare linkage, downside risks of violence, 911 utilization, city costs, and spillovers to precinct-level officer efficiency. We find meaningful impacts of MCR co-response on time use and healthcare contacts. MCR teams take longer than traditional police to arrive but spend substantially more time on scene after dispatch. MCR response also increases the likelihood of medical transport to crisis-appropriate facilities, including private psychiatric hospitals and emergency departments with psychiatric units. Overall, we detect no effect of MCR response on involuntary transport, arrest, or jailing, but find significant heterogeneity in program impacts by call severity and neighborhood socioeconomic context. While the program increases rather than decreases short- and medium-run city costs, it also reduces burden on traditional police officers, who provide faster response times to lower-priority calls within their precinct after local co-response. No impact is observed on repeat 911 engagement.
+    </div>
+  </details>
+</div>
+
+<div class="sp-card">
+  <div class="sp-title">“Can Police–Social Worker Partnerships Improve Crisis Response? Evidence from Columbus, Ohio</div>
   <div class="sp-meta"><em>With Leah Bevis, Pejmon Noghrehchi, Steve David, and Jennifer L. Hefner</em></div>
   <details>
     <summary>&#187; Abstract</summary>
