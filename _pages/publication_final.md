@@ -22,6 +22,7 @@ redirect_from:
 <div class="sp-card">
   <div class="sp-title">Understanding Demand for Police Alternatives </div>
   <div class="sp-meta"><em>With Bocar Ba, Meghna Baskar, Tony Cheng, Rei Mariman, and Maxime Menuet </em>[Reject & Resubmit at <strong>Journal of Political Economy</strong>]</div>
+  <div class="sp-meta">[Reject & Resubmit at <strong>Journal of Political Economy</strong>]</div>
   <details>
     <summary>&#187; Abstract</summary>
     <div class="sp-abstract">
